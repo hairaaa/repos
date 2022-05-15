@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\repos\SM4\SM4\源.cpp(98,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\repos\SM4\SM4\源.cpp(220,13): warning C4101: “temp2”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(219,7): warning C4101: “e”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(220,6): warning C4101: “temp1”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(342,13): warning C4101: “temp2”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(341,7): warning C4101: “e”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(342,6): warning C4101: “temp1”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(364,7): warning C4101: “s1”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(440,6): warning C4101: “jiamizhihou”: 未引用的局部变量
+D:\repos\SM4\SM4\源.cpp(439,6): warning C4101: “miwen”: 未引用的局部变量
+  SM4.vcxproj -> D:\repos\SM4\Debug\SM4.exe
